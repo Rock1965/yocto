@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/hawk/work/yocto/build-atmel/tmp
+SSTATE_DIR /home/hawk/work/yocto/build-atmel/../sstate-cache
